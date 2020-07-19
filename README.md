@@ -1,5 +1,5 @@
 # Portfolio_Fill-factor-calculation-program
-@@ -0,0 +1,73 @@
+
 # UPTO5 프로그램 소개
 upto5 프로그램은 plastic 실험기기 제조 업체에서 생성되는 데이터를 가공해 fill factor(압력구간)을 찾는 프로그램입니다.
 
